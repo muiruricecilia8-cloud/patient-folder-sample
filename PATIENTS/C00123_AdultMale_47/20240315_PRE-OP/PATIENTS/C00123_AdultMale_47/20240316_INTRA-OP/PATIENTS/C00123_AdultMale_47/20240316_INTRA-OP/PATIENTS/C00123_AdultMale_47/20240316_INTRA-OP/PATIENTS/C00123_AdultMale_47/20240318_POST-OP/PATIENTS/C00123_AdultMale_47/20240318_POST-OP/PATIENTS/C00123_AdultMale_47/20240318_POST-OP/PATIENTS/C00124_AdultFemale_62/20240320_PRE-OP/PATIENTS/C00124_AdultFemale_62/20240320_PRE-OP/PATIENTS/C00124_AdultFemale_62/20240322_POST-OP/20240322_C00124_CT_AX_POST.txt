@@ -1,0 +1,2 @@
+Placeholder: DICOM image file
+Case: C00124 | Procedure: CT | View: AX | Stage: POST
