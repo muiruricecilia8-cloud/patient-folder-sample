@@ -1,0 +1,2 @@
+Placeholder: Radiology report
+Case: C00124 | Procedure: CT | Stage: POST | Type: REPORT
