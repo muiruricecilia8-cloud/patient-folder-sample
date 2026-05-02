@@ -1,0 +1,2 @@
+Placeholder: DICOM image file
+Case: C00124 | Procedure: MRI | View: SAG | Stage: PRE
