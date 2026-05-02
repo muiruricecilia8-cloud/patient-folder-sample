@@ -1,0 +1,2 @@
+Placeholder: Fluoroscopy image file
+Case: C00123 | Procedure: FLUORO | View: AP | Stage: INTRA
