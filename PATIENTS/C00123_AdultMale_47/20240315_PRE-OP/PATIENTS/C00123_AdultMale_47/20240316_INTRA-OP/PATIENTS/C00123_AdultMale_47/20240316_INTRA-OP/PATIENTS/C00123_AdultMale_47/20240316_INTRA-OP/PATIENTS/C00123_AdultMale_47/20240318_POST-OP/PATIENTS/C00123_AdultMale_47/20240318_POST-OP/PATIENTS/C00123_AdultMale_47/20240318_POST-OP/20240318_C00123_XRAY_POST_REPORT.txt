@@ -1,0 +1,2 @@
+Placeholder: Radiology report
+Case: C00123 | Procedure: XRAY | Stage: POST | Type: REPORT
