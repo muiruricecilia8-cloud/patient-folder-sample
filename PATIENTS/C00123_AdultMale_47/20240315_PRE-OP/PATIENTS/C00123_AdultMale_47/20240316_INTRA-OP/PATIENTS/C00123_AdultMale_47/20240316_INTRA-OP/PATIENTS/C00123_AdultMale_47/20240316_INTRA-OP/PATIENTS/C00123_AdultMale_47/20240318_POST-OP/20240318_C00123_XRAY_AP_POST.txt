@@ -1,0 +1,2 @@
+Placeholder: DICOM image file
+Case: C00123 | Procedure: XRAY | View: AP | Stage: POST
